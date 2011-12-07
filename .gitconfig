@@ -1,0 +1,8 @@
+[user]
+	name = Jeff Bain
+[core]
+	editor = vim
+[color]
+    diff = auto
+    status = auto
+    branch = auto
